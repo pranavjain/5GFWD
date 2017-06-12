@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "850018566220",
+    "firebase_url": "https://arnavigation-78246.firebaseio.com",
+    "project_id": "arnavigation-78246",
+    "storage_bucket": "arnavigation-78246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850018566220:android:98b2322436bffdb4",
+        "android_client_info": {
+          "package_name": "com.example.mayanktripathi.arnavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850018566220-5kv8lek2lj1lrohnfnaiodi3stumne56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayanktripathi.arnavigation",
+            "certificate_hash": "ff2dc14130dc3aacc69d82c25cadd7b0dee2a1f5"
+          }
+        },
+        {
+          "client_id": "850018566220-g43o6gasp3gjjehh9a1fkohei3v6stkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOmgYjTpQ57eeJiNtIYIpalGp-Xjcr0bg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850018566220-g43o6gasp3gjjehh9a1fkohei3v6stkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850018566220:android:8a9e1e9852ca11e2",
+        "android_client_info": {
+          "package_name": "com.example.mayanktripathi.camerapreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850018566220-v33nqpm1drh1sc9aa23brv5mj803mpa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayanktripathi.camerapreview",
+            "certificate_hash": "ff2dc14130dc3aacc69d82c25cadd7b0dee2a1f5"
+          }
+        },
+        {
+          "client_id": "850018566220-g43o6gasp3gjjehh9a1fkohei3v6stkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOmgYjTpQ57eeJiNtIYIpalGp-Xjcr0bg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850018566220-g43o6gasp3gjjehh9a1fkohei3v6stkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
